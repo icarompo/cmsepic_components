@@ -15,7 +15,7 @@ export default {
       fontFamily: {
         title: ['Open Sans', "sans-serif"],
         content: ['"Lora"', "serif"],
-        highlight: ['"Raleway"', "sans-serif"]
+        highlight: ["Raleway", "sans-serif"]
       },
     },
   },
